@@ -1,0 +1,9 @@
+{
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {},
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.19.0"
+  }
+}
