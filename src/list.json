@@ -1,0 +1,16 @@
+[
+    {
+        "enum": "PREFS_VIDEO_PREVIEW",
+        "label": "Video Preview...",
+        "menu": "Preferences",
+        "version": [ 13.5, 15.0 ],
+        "id": 2704
+    },
+    {
+        "enum": "Preferences_VIDEO_PREVIEW",
+        "label": "Video Preview...",
+        "menu": "Preferences",
+        "version": [ 13.5, 15.0 ],
+        "id": 1505
+    }
+]

@@ -1,4 +1,4 @@
 // alert(
 //     app.findMenuCommandId("Appearance...")
 // )
-app.executeCommand(3071)
+app.executeCommand(3995)

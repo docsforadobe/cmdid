@@ -1,1 +1,5 @@
 node_modules
+.tmp.txt
+/ref
+/old
+/list
